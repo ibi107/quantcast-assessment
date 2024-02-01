@@ -2,7 +2,7 @@
 
 ## Requirements
 
-All the requirements are listed in `requirements.txt`, you can install them with `pip install -r requirements.txt`.
+All the requirements are listed in `requirements.txt`, you can install them with `pip install -r requirements.txt`. You can find my solution to the assessment in `cluster_kmeans.pynb`.
 ## Reflection
 
 ### What does the numerical data alone tell you?
